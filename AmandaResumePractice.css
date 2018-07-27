@@ -1,0 +1,44 @@
+body {
+	text-align: left;
+}
+
+
+#lady{float:right;
+	padding-top: 80px;
+
+}
+
+#nav {
+	list-style-type: none;
+	padding-left:80;
+	margin: 0;
+	position:fixed;
+	top:0px;
+}
+
+.bar {
+	float:left; 
+	overflow: hidden;
+	border: solid 2px #05386b;
+	font-family: arial black;
+
+}
+
+li a {
+	display: block;
+	padding: 10px;
+	background-color: #5cdb95;
+	text-decoration: none;
+	color: #05386b;
+}
+
+#main-header{ 
+	text-align:center;
+	padding-top:50px;
+
+ }
+
+#p01 {
+	text-align: center;
+}
+
